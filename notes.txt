@@ -1,0 +1,4 @@
+learning intro to git
+code . takes you from ubuntu terminal to vs code
+git status
+git add 
